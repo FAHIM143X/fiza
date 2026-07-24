@@ -2,7 +2,7 @@
 
 <!-- 🎀 FIZA ANIMATED HEADER -->
 
-<img src="https://raw.githubusercontent.com/FAHIM143X/fiza/main/fizamedia/pictures/githubfiza.png" width="900" height="400">
+<img src="https://raw.githubusercontent.com/FAHIM143X/fiza/main/fizamedia/pictures/fiza.png" width="900" height="400">
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+FIZA+%F0%9F%8E%80;Your+Cute+WhatsApp+Companion+%F0%9F%92%97;225%2B+Features+Waiting+for+You+%E2%9C%A8;Made+with+Love+by+FAHIM+%F0%9F%8C%B8" alt="FIZA Animated Header">
