@@ -14,7 +14,8 @@
 <img src="https://img.shields.io/badge/💗_BAILEYS-v7-ffb6c1?style=for-the-badge">
 <img src="https://img.shields.io/badge/🟢_NODE-18%2B-ffc0cb?style=for-the-badge">
 <img src="https://img.shields.io/badge/📜_MIT_LICENSE-ff99cc?style=for-the-badge">
-**🌸 A beautiful WhatsApp Multi-Device Bot with 225+ features, kawaii pink theme, games, AI, moderation, and more! 🌸**
+
+🌸 A beautiful WhatsApp Multi-Device Bot with 225+ features, games, AI, moderation, and more! 🌸
 
 </div>
 
