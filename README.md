@@ -8,13 +8,12 @@
 
 # 🎀 FIZA
 
-![FIZA](https://img.shields.io/badge/FIZA-🎀-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
-![Version](https://img.shields.io/badge/version-4.2.0-ff1493?style=for-the-badge)
-![Baileys](https://img.shields.io/badge/Baileys-v7-ffb6c1?style=for-the-badge)
-![Node](https://img.shields.io/badge/Node-18+-ffc0cb?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-ff99cc?style=for-the-badge)
-![Plugins](https://img.shields.io/badge/Plugins-225+-ff69b4?style=for-the-badge)
-
+<img src="https://img.shields.io/badge/🎀_FIZA-ff69b4?style=for-the-badge">
+<img src="https://img.shields.io/badge/✨_225%2B_FEATURES-ff1493?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌸_MULTI--DEVICE-ff85c1?style=for-the-badge">
+<img src="https://img.shields.io/badge/💗_BAILEYS-v7-ffb6c1?style=for-the-badge">
+<img src="https://img.shields.io/badge/🟢_NODE-18%2B-ffc0cb?style=for-the-badge">
+<img src="https://img.shields.io/badge/📜_MIT_LICENSE-ff99cc?style=for-the-badge">
 **🌸 A beautiful WhatsApp Multi-Device Bot with 225+ features, kawaii pink theme, games, AI, moderation, and more! 🌸**
 
 </div>
@@ -22,15 +21,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+FIZA+%F0%9F%8E%80;Your+Cute+WhatsApp+Companion+%F0%9F%92%97;225%2B+Features+Waiting+for+You+%E2%9C%A8;Made+with+Love+by+FAHIM+%F0%9F%8C%B8" alt="FIZA Animated Header">
 
 <br>
-
-<img src="https://img.shields.io/badge/🎀_FIZA-ff69b4?style=for-the-badge">
-<img src="https://img.shields.io/badge/✨_225%2B_FEATURES-ff1493?style=for-the-badge">
-<img src="https://img.shields.io/badge/🌸_MULTI--DEVICE-ff85c1?style=for-the-badge">
-<img src="https://img.shields.io/badge/💗_BAILEYS-v7-ffb6c1?style=for-the-badge">
-<img src="https://img.shields.io/badge/🟢_NODE-18%2B-ffc0cb?style=for-the-badge">
-<img src="https://img.shields.io/badge/📜_MIT_LICENSE-ff99cc?style=for-the-badge">
-
-<br><br>
 
 ### 🌸 𝙁𝙄𝙕𝘼 — 𝙔𝙤𝙪𝙧 𝘾𝙪𝙩𝙚 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘾𝙤𝙢𝙥𝙖𝙣𝙞𝙤𝙣 🎀
 
