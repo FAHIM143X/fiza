@@ -63,19 +63,36 @@ Sudo system (delegate owner powers), broadcast messages, manage premium users, b
 Every response is wrapped in beautiful pink borders with heart emojis, cherry blossoms, and cute messages — making your bot feel warm and lovable.
 
 ---
+## ☁️ Deploy FIZA to Cloud
 
+### One-Click Deploy
+
+| Platform | Deploy |
+|----------|--------|
+| **Heroku** | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FAHIM143X/fiza) |
+| **Railway** | [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/FAHIM143X/fiza) |
+| **Koyeb** | [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/FAHIM143X/fiza&branch=main&name=fiza) |
+| **Render** | [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/FAHIM143X/fiza) |
+| **Replit** | [![Run on Replit](https://replit.com/badge/github/FAHIM143X/fiza)](https://replit.com/github/FAHIM143X/fiza) |
+
+### VPS / Linux
+
+```bash
+git clone https://github.com/FAHIM143X/fiza.git
+cd fiza && npm install
+npm install -g pm2
+pm2 start index.js --name fiza
+pm2 save && pm2 startup
 ## 🚀 Quick Start
+### TERMUX INSTALLETION
+```bash
+git clone https://github.com/FAHIM143X/fiza.git
+cd fiza
+npm install --legacy-peer-deps
+node index.js
 
 ### Prerequisites
 - **Node.js** 18+
 - **FFmpeg** (for stickers & media)
 - **yt-dlp** (for YouTube downloads)
 - **ImageMagick** (optional, for image effects)
-
-### Installation
-
-```bash
-git clone https://github.com/FAHIM143X/fiza.git
-cd fiza
-npm install --legacy-peer-deps
-node index.js
