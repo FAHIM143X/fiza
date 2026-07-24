@@ -1,0 +1,12 @@
+node_modules/
+session/
+database/
+tmp/
+*.log
+.env
+backups/
+plugins-backup/
+plugins-compiled/
+fiza-release.tar.gz
+.DS_Store
+*.jsc

@@ -1,0 +1,770 @@
+{
+  "fizaDB": {
+    "realOwners": [
+      [
+        "917289881303",
+        "FAHIM",
+        true
+      ]
+    ],
+    "botOwners": [
+      [
+        "917289881303",
+        "FAHIM",
+        true
+      ],
+      [
+        "127642871304276",
+        "Hooni",
+        true
+      ],
+      [
+        "2758023315466",
+        "ƐMPƏṚØŔ👽👽",
+        true
+      ]
+    ],
+    "premiumUsers": [
+      {
+        "user": "",
+        "date": 0
+      },
+      {
+        "user": "917289881303@s.whatsapp.net",
+        "date": 2784698949290
+      }
+    ],
+    "sudoUsers": []
+  },
+  "users": {
+    "917289881303@s.whatsapp.net": {
+      "name": "FAHIM",
+      "age": -1,
+      "afk": -1,
+      "afkReason": "",
+      "exp": 8280,
+      "limit": 100,
+      "level": 0,
+      "spamcount": 223,
+      "banned": false,
+      "warnings": 0
+    },
+    "116707716776000@lid": {
+      "name": "デビッド",
+      "age": -1,
+      "afk": -1,
+      "afkReason": "",
+      "exp": 40,
+      "limit": 100,
+      "level": 0,
+      "spamcount": 1,
+      "banned": false,
+      "warnings": 0
+    },
+    "272486314803321@lid": {
+      "name": "Do hee 🦋",
+      "age": -1,
+      "afk": -1,
+      "afkReason": "",
+      "exp": 581,
+      "limit": 100,
+      "level": 0,
+      "spamcount": 2,
+      "banned": false,
+      "warnings": 0
+    },
+    "128140735168696@lid": {
+      "name": "Alice Jenny",
+      "age": -1,
+      "afk": -1,
+      "afkReason": "",
+      "exp": 37,
+      "limit": 100,
+      "level": 0,
+      "spamcount": 1,
+      "banned": false,
+      "warnings": 0
+    },
+    "18662270464221@lid": {
+      "name": "𝐹𝐴𝐻𝐼𝑀💋",
+      "age": -1,
+      "afk": -1,
+      "afkReason": "",
+      "exp": 88,
+      "limit": 100,
+      "level": 0,
+      "spamcount": 3,
+      "banned": false,
+      "warnings": 1
+    },
+    "127642871304276@lid": {
+      "name": "Hooni",
+      "age": -1,
+      "afk": -1,
+      "afkReason": "",
+      "exp": 1345,
+      "limit": 100,
+      "level": 0,
+      "spamcount": 22,
+      "banned": false,
+      "warnings": 0
+    },
+    "228221677248631@lid": {
+      "name": "๛ɢOĐʟツCʜUʟʙUʟ『OP』",
+      "age": -1,
+      "afk": -1,
+      "afkReason": "",
+      "exp": 77,
+      "limit": 100,
+      "level": 0,
+      "spamcount": 2,
+      "banned": false,
+      "warnings": 0
+    },
+    "263947903099031@lid": {
+      "name": "Akin",
+      "age": -1,
+      "afk": -1,
+      "afkReason": "",
+      "exp": 260,
+      "limit": 100,
+      "level": 0,
+      "spamcount": 4,
+      "banned": false,
+      "warnings": 0
+    },
+    "139840410636394@lid": {
+      "name": "justin",
+      "age": -1,
+      "afk": -1,
+      "afkReason": "",
+      "exp": 31,
+      "limit": 100,
+      "level": 0,
+      "spamcount": 1,
+      "banned": false,
+      "warnings": 0
+    },
+    "78018768830471@lid": {
+      "name": "Lizzy Gold 💝",
+      "age": -1,
+      "afk": -1,
+      "afkReason": "",
+      "exp": 32,
+      "limit": 100,
+      "level": 0,
+      "spamcount": 1,
+      "banned": false,
+      "warnings": 0
+    },
+    "2758023315466@lid": {
+      "name": "ƐMPƏṚØŔ👽👽",
+      "age": -1,
+      "afk": -1,
+      "afkReason": "",
+      "exp": 127,
+      "limit": 100,
+      "level": 0,
+      "spamcount": 5,
+      "banned": false,
+      "warnings": 0
+    }
+  },
+  "chats": {
+    "120363426930569224@g.us": {
+      "presence": false,
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": true,
+      "antiToxic": false,
+      "antiDelete": false,
+      "nsfw": false,
+      "game": false,
+      "adminonly": false,
+      "owneronly": false,
+      "muted": false,
+      "adminMode": false,
+      "selfMode": false,
+      "slowmode": 0
+    },
+    "120363427390889343@g.us": {
+      "presence": false,
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": true,
+      "antiToxic": false,
+      "antiDelete": false,
+      "nsfw": false,
+      "game": false,
+      "adminonly": false,
+      "owneronly": false,
+      "muted": false,
+      "adminMode": true,
+      "selfMode": false,
+      "slowmode": 0
+    },
+    "917289881303@s.whatsapp.net": {
+      "presence": false,
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": false,
+      "antiToxic": false,
+      "antiDelete": false,
+      "nsfw": false,
+      "game": false,
+      "adminonly": false,
+      "owneronly": false,
+      "muted": false
+    },
+    "120363406797870387@g.us": {
+      "presence": false,
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": true,
+      "antiToxic": false,
+      "antiDelete": false,
+      "nsfw": false,
+      "game": false,
+      "adminonly": false,
+      "owneronly": false,
+      "muted": false,
+      "slowmode": 0
+    },
+    "status@broadcast": {
+      "presence": false,
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": false,
+      "antiToxic": false,
+      "antiDelete": false,
+      "nsfw": false,
+      "game": false,
+      "adminonly": false,
+      "owneronly": false,
+      "muted": false,
+      "slowmode": 0
+    },
+    "179079164772358@lid": {
+      "presence": false,
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": false,
+      "antiToxic": false,
+      "antiDelete": false,
+      "nsfw": false,
+      "game": false,
+      "adminonly": false,
+      "owneronly": false,
+      "muted": false
+    }
+  },
+  "settings": {
+    "default": {
+      "selfMode": false,
+      "autoRead": false,
+      "restrictedMode": false,
+      "name": "FIZA",
+      "ownerName": "FAHIM"
+    },
+    "917289881303@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false
+    }
+  },
+  "statistics": {
+    "startDate": 1784698949291,
+    "totalCommands": 0,
+    "totalUsers": 0,
+    "totalChats": 0,
+    "plugins/BOT/alive.js": {
+      "total": 12,
+      "success": 12,
+      "last": 1784795263512,
+      "lastSuccess": 1784795263512
+    },
+    "plugins/TOOLS/sticker.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1784839451668,
+      "lastSuccess": 1784839451668
+    },
+    "plugins/GROUPS/group-tagall.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1784704120219,
+      "lastSuccess": 1784704120219
+    },
+    "plugins/TOOLS/take.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1784841877128,
+      "lastSuccess": 1784841877128
+    },
+    "plugins/FUN/ship.js": {
+      "total": 12,
+      "success": 12,
+      "last": 1784838637245,
+      "lastSuccess": 1784838637245
+    },
+    "plugins/OWNER/mode.js": {
+      "total": 18,
+      "success": 18,
+      "last": 1784837531760,
+      "lastSuccess": 1784837531760
+    },
+    "plugins/BOT/menu.js": {
+      "total": 17,
+      "success": 17,
+      "last": 1784841997268,
+      "lastSuccess": 1784841997268
+    },
+    "plugins/DOWNLOADER/YouTube-Audio.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1784842345952,
+      "lastSuccess": 1784842345952
+    },
+    "plugins/IMAGES/sakura.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784717847297,
+      "lastSuccess": 1784717847297
+    },
+    "plugins/IMAGES/korea.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784717847430,
+      "lastSuccess": 1784717847430
+    },
+    "plugins/IMAGES/china.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784717848213,
+      "lastSuccess": 1784717848213
+    },
+    "plugins/OWNER/owner.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1784838655461,
+      "lastSuccess": 1784838655461
+    },
+    "plugins/BOT/ping.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1784837554860,
+      "lastSuccess": 1784837554860
+    },
+    "plugins/OWNER/Gcmode.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1784839797830,
+      "lastSuccess": 1784839797830
+    },
+    "plugins/FUN/animals.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784720540483,
+      "lastSuccess": 1784720540483
+    },
+    "plugins/FUN/cat.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1784795121581,
+      "lastSuccess": 1784795121581
+    },
+    "plugins/FUN/fox.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1784722058068,
+      "lastSuccess": 1784722058068
+    },
+    "plugins/GROUPS/Welcome.js": {
+      "total": 12,
+      "success": 12,
+      "last": 1784838716687,
+      "lastSuccess": 1784838716687
+    },
+    "plugins/FUN/Lizard.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1784841880644,
+      "lastSuccess": 1784841880644
+    },
+    "plugins/GROUPS/Tagall.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1784838669383,
+      "lastSuccess": 1784838669383
+    },
+    "plugins/testingfeature /catalogs.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784813529941,
+      "lastSuccess": 1784813529941
+    },
+    "plugins/FUN/simp.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1784839450408,
+      "lastSuccess": 1784839450408
+    },
+    "plugins/SPECIAL/simpcard.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1784816130800,
+      "lastSuccess": 1784816130800
+    },
+    "plugins/SPECIAL/logomaker1.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1784817849750,
+      "lastSuccess": 1784817849750
+    },
+    "plugins/SPECIAL/textprologo.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1784819524967,
+      "lastSuccess": 1784819524967
+    },
+    "plugins/SPECIAL/gaycard.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1784839347903,
+      "lastSuccess": 1784839347903
+    },
+    "plugins/SPECIAL/sepiacard..js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784820139552,
+      "lastSuccess": 1784820139552
+    },
+    "plugins/SPECIAL/jailcard.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1784839450633,
+      "lastSuccess": 1784839450633
+    },
+    "plugins/SPECIAL/lolicard.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1784820241219,
+      "lastSuccess": 1784820241219
+    },
+    "plugins/SPECIAL/hornycard.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1784839359184,
+      "lastSuccess": 1784839359184
+    },
+    "plugins/SPECIAL/pixellate.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784820291616,
+      "lastSuccess": 1784820291616
+    },
+    "plugins/GROUPS/antilink.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1784841897986,
+      "lastSuccess": 1784841897986
+    },
+    "plugins/DOWNLOADER/wallpaperdownloader.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1784841436682,
+      "lastSuccess": 1784841436682
+    },
+    "plugins/DOWNLOADER/ringtone-downloader.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784831639661,
+      "lastSuccess": 1784831639661
+    },
+    "plugins/DOWNLOADER/instagram-downloader.js": {
+      "total": 1,
+      "success": 1,
+      "last": 1784831738265,
+      "lastSuccess": 1784831738265
+    },
+    "plugins/AI/FizaAi.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1784832085359,
+      "lastSuccess": 1784832085359
+    },
+    "plugins/AI/chatgpt.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784832216599,
+      "lastSuccess": 1784832216599
+    },
+    "plugins/STICKERS/sticker-animtions.js": {
+      "total": 25,
+      "success": 25,
+      "last": 1784834996945,
+      "lastSuccess": 1784834996945
+    },
+    "plugins/FUN/actiongifs.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1784841786004,
+      "lastSuccess": 1784841786004
+    },
+    "plugins/GROUPS/Online-Members.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1784835747057,
+      "lastSuccess": 1784835747057
+    },
+    "plugins/FUN/chucknorris.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784836949375,
+      "lastSuccess": 1784836949375
+    },
+    "plugins/SPECIAL/tweetcard.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784837005032,
+      "lastSuccess": 1784837005032
+    },
+    "plugins/OWNER/prefix.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1784837878826,
+      "lastSuccess": 1784837878826
+    },
+    "plugins/OWNER/addowner.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1784841611305,
+      "lastSuccess": 1784841611305
+    },
+    "plugins/SPECIAL/stupidcard.js": {
+      "total": 1,
+      "success": 1,
+      "last": 1784839391107,
+      "lastSuccess": 1784839391107
+    },
+    "plugins/FUN/gay.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784839560505,
+      "lastSuccess": 1784839560505
+    },
+    "plugins/SPECIAL/triggered.js": {
+      "total": 1,
+      "success": 1,
+      "last": 1784839483684,
+      "lastSuccess": 1784839483684
+    },
+    "plugins/SPECIAL/wastedcard.js": {
+      "total": 1,
+      "success": 1,
+      "last": 1784839522474,
+      "lastSuccess": 1784839522474
+    },
+    "plugins/SPECIAL/comradecard.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784839587166,
+      "lastSuccess": 1784839587166
+    },
+    "plugins/SPECIAL/beautifulcard.js": {
+      "total": 1,
+      "success": 1,
+      "last": 1784839608712,
+      "lastSuccess": 1784839608712
+    },
+    "plugins/SPECIAL/facepalm.js": {
+      "total": 1,
+      "success": 1,
+      "last": 1784839628165,
+      "lastSuccess": 1784839628165
+    },
+    "plugins/SPECIAL/ytcomment.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784839716045,
+      "lastSuccess": 1784839716045
+    },
+    "plugins/SUPREME/supreme.js": {
+      "total": 1,
+      "success": 1,
+      "last": 1784839757378,
+      "lastSuccess": 1784839757378
+    },
+    "plugins/BOT/_menu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1784842018319,
+      "lastSuccess": 1784842018319
+    },
+    "plugins/DOWNLOADER/youtube-play.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1784840723686,
+      "lastSuccess": 1784840723686
+    },
+    "plugins/DOWNLOADER/play2.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1784842277080,
+      "lastSuccess": 1784842277080
+    },
+    "plugins/FUN/Bunny.js": {
+      "total": 1,
+      "success": 1,
+      "last": 1784841502666,
+      "lastSuccess": 1784841502666
+    },
+    "plugins/FUN/food.js": {
+      "total": 1,
+      "success": 0,
+      "last": 1784841538251,
+      "lastSuccess": 1784841538251
+    },
+    "plugins/GROUPS/kick.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784842041165,
+      "lastSuccess": 1784842041165
+    },
+    "plugins/GROUPS/Warn.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1784842110797,
+      "lastSuccess": 1784842110797
+    },
+    "plugins/GROUPS/Unwarn.js": {
+      "total": 1,
+      "success": 1,
+      "last": 1784842217157,
+      "lastSuccess": 1784842217157
+    }
+  },
+  "antilink": {},
+  "antitoxic": {},
+  "antidelete": {},
+  "warnings": {},
+  "contacts": {
+    "917289881303@s.whatsapp.net": {
+      "name": "FAHIM",
+      "notify": "FAHIM"
+    },
+    "127642871304276@lid": {
+      "name": "Hooni",
+      "notify": "Hooni"
+    },
+    "228221677248631@lid": {
+      "name": "๛ɢOĐʟツCʜUʟʙUʟ『OP』",
+      "notify": "๛ɢOĐʟツCʜUʟʙUʟ『OP』"
+    },
+    "179079164772358@lid": {
+      "name": "FAHIM",
+      "notify": "FAHIM"
+    },
+    "261203569975371@lid": {
+      "name": "Chigozirim",
+      "notify": "Chigozirim"
+    },
+    "2758023315466@lid": {
+      "name": "ƐMPƏṚØŔ👽👽",
+      "notify": "ƐMPƏṚØŔ👽👽"
+    },
+    "133531187552506@lid": {
+      "name": "Emelda",
+      "notify": "Emelda"
+    },
+    "272486314803321@lid": {
+      "name": "Do hee 🦋",
+      "notify": "Do hee 🦋"
+    },
+    "116707716776000@lid": {
+      "name": "デビッド",
+      "notify": "デビッド"
+    },
+    "103118574514270@lid": {
+      "name": "Billions van",
+      "notify": "Billions van"
+    },
+    "171619007873064@lid": {
+      "name": "Vicky",
+      "notify": "Vicky"
+    },
+    "247149682012235@lid": {
+      "name": "Spindle... 🐈",
+      "notify": "Spindle... 🐈"
+    },
+    "35481479839976@lid": {
+      "name": "anjolaoluwa",
+      "notify": "anjolaoluwa"
+    },
+    "263947903099031@lid": {
+      "name": "Akin",
+      "notify": "Akin"
+    },
+    "182579646992578@lid": {
+      "name": "*Vërífíèd~",
+      "notify": "*Vërífíèd~"
+    },
+    "267469776281721@lid": {
+      "name": "Jupiter m💰ney 🔥💯",
+      "notify": "Jupiter m💰ney 🔥💯"
+    },
+    "198883426709651@lid": {
+      "name": "soft Power",
+      "notify": "soft Power"
+    },
+    "88408328302774@lid": {
+      "name": "Favy Bea😘🥰😜",
+      "notify": "Favy Bea😘🥰😜"
+    },
+    "139840410636394@lid": {
+      "name": "justin",
+      "notify": "justin"
+    },
+    "78018768830471@lid": {
+      "name": "Lizzy Gold 💝",
+      "notify": "Lizzy Gold 💝"
+    },
+    "63200829698206@lid": {
+      "name": "𝗖𝗲𝗹𝗲 ꩜ .ᐟ",
+      "notify": "𝗖𝗲𝗹𝗲 ꩜ .ᐟ"
+    },
+    "200433926713434@lid": {
+      "name": "Odogwu Nedu",
+      "notify": "Odogwu Nedu"
+    },
+    "19336462872737@lid": {
+      "name": "promise",
+      "notify": "promise"
+    }
+  },
+  "phonebook": {}
+}

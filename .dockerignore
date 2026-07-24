@@ -1,0 +1,10 @@
+node_modules
+.git
+.env
+*.log
+session/*
+database/*
+!database/.gitkeep
+tmp/*
+Dockerfile
+.dockerignore
