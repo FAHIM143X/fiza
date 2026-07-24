@@ -9,7 +9,7 @@ let handler = async function (m, { conn }) {
     const BORDER_BOTTOM = '｡ﾟ•┈୨🌸୧┈•ﾟ｡'
     const DIVIDER = '💗━━━━━━⊱💖⊰━━━━━━💗'
 
-    const repoURL = 'https://github.com/FAHIM/FIZA'
+    const repoURL = 'https://github.com/FAHIM143X/fiza'
 
     try {
         let [, username, repoName] = repoURL.match(/github\.com\/([^/]+)\/([^/]+)/)
